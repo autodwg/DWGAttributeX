@@ -7,6 +7,7 @@ The attribute Control Component is an component let developers extract or modify
 - Support DWG and DXF in versions from R9 to 2027.
 
 ### Free Trial Download Link
+https://github.com/autodwg/DWGAttributeX/releases/download/v1.2.0/ATTX2026-v1.2.0.zip
 
 ## User Guide
 ### Getting Started
